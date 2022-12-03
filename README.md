@@ -3,8 +3,9 @@
 # 프로젝트 소개
 29cm 웹사이트를 모티브로한 프로젝트를 진행했습니다. 개발은 웹사이트 기획부터 최종 발표까지 팀원들과 매법 소통을 해 프로젝트를 진행하였으며, 다양한 라이브러리와 API를 써보며 develop 목표로 진행되었습니다. 
 
-[프론트 깃허브](https://github.com/wecode-bootcamp-korea/39-1st-39cm-frontend)
-[시현영상](https://www.youtube.com/watch?v=uIBfznhRL5o)
+-[프론트 깃허브](https://github.com/wecode-bootcamp-korea/39-1st-39cm-frontend)
+-[시현영상](https://www.youtube.com/watch?v=uIBfznhRL5o)
+https://www.youtube.com/watch?v=uIBfznhRL5o 
 
 # 팀원소개
 
